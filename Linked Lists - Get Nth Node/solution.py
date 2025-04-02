@@ -1,7 +1,6 @@
 """
 Lenyk Nikita
 Solution: Linked Lists - Get Nth Node
-
 """
 
 

@@ -3,6 +3,7 @@ Lenyk Nikita
 Solution: Linked Lists - Recursive Reverse
 """
 
+
 class Node:
     """
     Linked list representation

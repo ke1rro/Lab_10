@@ -14,7 +14,6 @@ class Node:
         self.next = next
 
 
-
 def swap_pairs(head: "Node") -> "Node":
     """
     that swaps each pair of nodes in the list,
@@ -25,7 +24,6 @@ def swap_pairs(head: "Node") -> "Node":
     """
     if not head or not head.next:
         return head
-
 
     new_head = head.next
     prev = None
